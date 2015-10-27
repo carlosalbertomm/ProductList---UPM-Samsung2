@@ -1,0 +1,46 @@
+﻿<resources>
+    <string name="app_name">PRODUCT LIST</string>
+
+    <!-- Actividad Principal -->
+    <string name="pantalla_principal_titulo">
+        GESTIONA TUS LISTAS Y CONFIGURA TUS PRODUCTOS
+    </string>
+
+    <!-- Actividad Gestionar Listas -->
+    <string name="pantalla_gestionar_listas_titulo">
+        GESTIONAR LISTAS
+    </string>
+
+    <!-- Actividad Creacion Lista -->
+    <string name="pantalla_creacion_lista_titulo">
+        CREANDO TU LISTA DE LA COMPRA
+    </string>
+
+    <!-- Actividad Informacion -->
+    <string name="pantalla_informacion_titulo">
+        INFORMACION
+    </string>
+    <string name="pantalla_informacion_texto">
+        Esta aplicación sirve para gestionar tus listas de la compra, listando los productos que vas a comprar.
+        Ofrece un sistema de comparativa de precios que vaya introduciendo despues de cada compra, para visualizar donde realiza la compra mas económica.
+    </string>
+
+    <!-- Actividad Tabla creada a mostrar -->
+    <string name="pantalla_tabla_creada_amostrar">
+        TU LISTA ACTUAL
+    </string>
+
+    <!-- Actividad Peferencias -->
+    <string name="pantalla_preferencias_titulo">
+        PREFERENCIAS
+    </string>
+
+
+    <!-- BOTONES -->
+    <string name="boton_aceptar">ACEPTAR</string>
+    <string name="boton_volver">VOLVER</string>
+    <string name="boton_cancelar">CANCELAR</string>
+    <string name="boton_salir">SALIR</string>
+
+
+</resources>
